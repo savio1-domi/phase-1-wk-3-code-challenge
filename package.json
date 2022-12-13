@@ -1,0 +1,11 @@
+{
+  "name": "flatdango",
+  "version": "1.0.0",
+  "description": "mini web application using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Dominic Juma",
+  "license": "ISC"
+}
