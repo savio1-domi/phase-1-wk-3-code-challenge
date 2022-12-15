@@ -1,9 +1,9 @@
 # phase-1-wk-3-code-challenge
-# Movie Showmax 
-Is a simple application which displays latest movies.
+# Prestige Century Cinemax
+Is a simple application which displays latest movies where one can book a ticket. 
 
 ## Description
-One can book a ticket if they would like to watch.
+Managed by Dominic.You can 
 
 ## Built With
 This application was built with the folliwing technologies
@@ -19,8 +19,7 @@ This application was built with the folliwing technologies
 ## Getting started 
 If you wish to access this repository, you must have a computer that runs either Windows 7+, Linux or Mac Os. 
 To get started, you need to do the fowolling
-# <center>Installation<center>
-
+### <center>Installation<center>
 -Fork the repo 
 
 -Open your terminal/CLI then clone the repo using the link you would have forked and copied.Ensure its on the directory you can easily navigate to.
@@ -31,7 +30,12 @@ To get started, you need to do the fowolling
 
 -Then change directory to the repo folder.
 
-          cd phase-1-wk-code-challenge
+          cd phase-1-wk-3-code-challenge
 
 
+## Author
+This web app was done by Senior Developer Dominic Juma 
+          
+## License
+LSC          
 
