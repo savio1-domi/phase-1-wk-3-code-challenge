@@ -1,0 +1,48 @@
+*,html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: yellow;
+}
+h1 {
+    color: red;
+    background-color: black;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin: 40px 0 40px 0;
+}
+.section-1{
+    margin-left: 15px;
+}
+
+.section-1 img{
+    width: 20px;
+    cursor: pointer;
+    margin: 0 10px 10px 0;
+}
+
+.section-2{
+    position: block;
+    overflow: none;
+    width: 70%;
+}
+.section-2 img{
+    width: 300px;
+}
+#movie-info{
+    padding-left: 14em;
+}
+
+#book-ticket{
+    background-color: whitesmoke;
+    color: red;
+    border: slategray black;
+    border-radius: 2pc;
+    padding: 3px 6px 3px;
+
+}
+
