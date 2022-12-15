@@ -3,7 +3,7 @@
 Is a simple application which displays latest movies where one can book a ticket. 
 
 ## Description
-Managed by Dominic.You can 
+Managed by Dominic.You can buy a ticket to watch a movie today. There is space on our site if you book a ticket,your sit will be reserved. 
 
 ## Built With
 This application was built with the folliwing technologies
@@ -13,8 +13,6 @@ This application was built with the folliwing technologies
 -CSS
 
 -JavaScript
-
--[bootstrap](https://getbootstrap.com)
 
 ## Getting started 
 If you wish to access this repository, you must have a computer that runs either Windows 7+, Linux or Mac Os. 
